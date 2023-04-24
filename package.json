@@ -1,32 +1,21 @@
 {
-  "name": "tasks",
+  "name": "c",
   "version": "1.0.0",
-  "type": "module",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "migration:create": "npm run typeorm migration:create -- -n"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/anton1eonenko/tasks.git"
-  },
-  "author": "",
+  "author": "Anton",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/anton1eonenko/tasks/issues"
-  },
-  "homepage": "https://github.com/anton1eonenko/tasks#readme",
-  "dependencies": {
-    "mysql": "^2.18.1",
-    "pg": "^8.10.0",
-    "reflect-metadata": "^0.1.13",
-    "sqlite": "^4.1.2",
-    "sqlite3": "^5.1.6",
-    "typeorm": "^0.3.15"
-  },
   "devDependencies": {
-    "@types/node": "^18.15.11",
-    "typescript": "^5.0.4"
-  }
+    "@playwright/test": "^1.29.1",
+    "allure-playwright": "^2.0.0-beta.23",
+    "log4js": "^6.7.1"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "playwright-core": "^1.29.1"
+  },
+  "description": ""
 }

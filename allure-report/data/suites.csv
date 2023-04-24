@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jan 14 21:23:20 MSK 2023","Sat Jan 14 21:23:47 MSK 2023","26929","chromium","test.spec.ts","Search","","","Forum authorization positive",""
+"passed","Sat Jan 14 21:22:18 MSK 2023","Sat Jan 14 21:23:00 MSK 2023","42390","chromium","test.spec.ts","Search","","","Games",""
+"passed","Sat Jan 14 21:23:31 MSK 2023","Sat Jan 14 21:23:55 MSK 2023","24302","chromium","test.spec.ts","Search","","","Forum authorization negative",""
+"failed","Sat Jan 14 21:22:17 MSK 2023","Sat Jan 14 21:22:54 MSK 2023","36904","chromium","test.spec.ts","Search","","","Analytics",""
+"passed","Sat Jan 14 21:23:00 MSK 2023","Sat Jan 14 21:23:20 MSK 2023","19381","chromium","test.spec.ts","Search","","","Сontacts",""
+"passed","Sat Jan 14 21:22:58 MSK 2023","Sat Jan 14 21:23:31 MSK 2023","32870","chromium","test.spec.ts","Search","","","Search crypto",""
